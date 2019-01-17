@@ -1,4 +1,4 @@
 # Codes
 codes storage
-changes saved 
+changes are saved 
 Created new branch this is the change
